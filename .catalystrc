@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "9451000000007078",
+      "name": "rprbusinesssolutions",
+      "domain": {
+        "id": "50022202380",
+        "name": "rprbusinesssolutions-60032593364.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60032593364",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
